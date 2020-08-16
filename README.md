@@ -1,2 +1,4 @@
 # Creative-Coding
 Creative Coding Educational Modules
+-----------------------------------
+Creative Coding is an introductory Computer Science curriculum aimed at increasing engagement among students while promoting the developing of Computational and Creative Thinking skills. The program is based in Processing/p5.js - extensions of Java/JavaScript respectively - and contextualized fundamental concepts of Computer Science within the context of Art and Design through flexible and creative exercises in color theory, form, abstraction, automation, and simulation. It is my hope that efforts in the area of creative coding can help to promote the perspective that Computer Science is an accesible tool that goes hand in hand with Creative Thinking to solve complex problems and manifest imaginative ideas.
