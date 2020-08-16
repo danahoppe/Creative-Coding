@@ -25,17 +25,5 @@ void draw() {
     triangle(a,b,c,d,e,f);
 
   }
-  
-  //Rectangle : rect(x,y,width,height)
-  fill(0,100,360,100);
-  rect(200,300,100,100);
-  
-  //Triangle : traingle(x1,y1,x2,y2,x3,y3)
-  fill(180,360,360);
-  triangle(500,400, 550,300, 600,400);
-  
-  //Ellipse : ellipse(x,y,width, height)
-  fill(90,360,360);
-  ellipse(400,350, 100,100);
 }
 //End of draw()
